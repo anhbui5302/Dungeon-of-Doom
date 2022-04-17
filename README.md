@@ -51,17 +51,27 @@ will lose.
 
 Examples when you use "LOOK":
 Example 1:
+	
 ###..
+	
 #.#.E
+	
 ..P..
+	
 #....
+	
 #..G.
 
 Example 2:
+	
 #####
+	
 #####
+	
 ..P##
+	
 ...##
+	
 B..##
 
 Map legend:
